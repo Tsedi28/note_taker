@@ -23,11 +23,11 @@ An application to write and save note with Express.js back end and will save and
 
 
 ## Screenshots
-![](public/assets/img/Screenshot%202022-11-29%20002319.png)
+![](public/assets/img/NoteTaker_1.png)
 
-![](public/assets/img/Screenshot%202022-11-29%20002924.png)
+![](public/assets/img/NoteTaker_2.png)
 
-![](public/assets/img/Screenshot%202022-11-29%20002040.png)
+![](public/assets/img/NoteTaker_3.png)
 
 
 ## Technologies Use
