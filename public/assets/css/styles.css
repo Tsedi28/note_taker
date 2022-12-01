@@ -9,6 +9,9 @@ body {
   display: none;
 }
 
+.tint {
+  background-color: rgb(192, 194, 93);
+}
 .icons i {
   margin-left: 15px;
   margin-right: 15px;
